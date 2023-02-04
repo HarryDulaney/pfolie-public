@@ -2,6 +2,8 @@
 # ~ Pfolie ~
 ### [Pfolie.com](https://www.pfolie.com) is a suite of web-based investment and financial portfolio tools. Pfolie provides a portal for investors to interact with real-time data about financial markets. The current focus is on cryptocurrency price and market sentiment but tools for traditional financial markets are being developed.
 
+### This repo does not contain the source code for Pfolie and is intended for public interaction with the projects developers. 
+## If you are intereseted in working on this project please contact the project owners to be added to the private development repo.
 #### Most features are available without an account but by registering a free account, users gain access to custom features like the portfolio manager tool where they can track and analyize current/potential investments, and find triage opportunites in the market.
 ____
 ## Current features include:
